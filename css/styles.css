@@ -67,11 +67,10 @@ footer {
   color: #ffffff;
 }
 .hero-btn {
-    font-family:inherit
   font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
-    letter-spacing: 0.06em;
+  letter-spacing: 0.06em;
 
   color: #ffffff;
 }
@@ -168,7 +167,6 @@ footer {
 /* -----Портфолио------ */
 
 .portfolio-btn {
-font-family:inherit
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
